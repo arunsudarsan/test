@@ -1,3 +1,0 @@
-this is a test file created in gittest folder
-
-modification - 1
